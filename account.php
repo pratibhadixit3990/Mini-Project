@@ -573,7 +573,7 @@ if (@$_GET['q'] == 3) {
 <div class="row footer">
  <div class="col-md-2 box"></div>
 <div class="col-md-3 box">
-<a href="#" data-toggle="modal" data-target="#developers" s style="color:lightyellow;" onmouseover="this.style('color:yellow')" target="new">Organized by Muki InfoTech,Erode</a>
+<a href="#" data-toggle="modal" data-target="#developers" s style="color:lightyellow;" onmouseover="this.style('color:yellow')" target="new">Organized by abc</a>
 </div>
 <!-- Modal For Developers-->
 <div class="modal fade title1" id="developers">
