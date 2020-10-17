@@ -3,7 +3,7 @@
 <head>
 <link rel="icon" href="favicon.ico" type="image/icon" sizes="16x16">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-<title>Skill's Breaker </title>
+<title>Online Quiz Generator</title>
   
  <link rel="stylesheet" href="css/main.css">
  <link  rel="stylesheet" href="css/font.css">
@@ -22,7 +22,7 @@ if (@$_GET['w']) {
 <body>
 <div class="row header">
 <div class="col-lg-6">
-<span class="logo">Skill's Breaker</span></div>
+<span class="logo">Online Quiz Generator</span></div>
 <div class="col-md-2">
 </div>
 <div class="col-md-4">
